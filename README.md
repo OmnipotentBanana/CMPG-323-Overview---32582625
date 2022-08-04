@@ -9,6 +9,7 @@ for each project
 ## Branches that will be used for this project
 - main
 - dev
+
 Working alone with these branches will allow for fluid and safe commits.
 
 
@@ -40,4 +41,4 @@ integrate
 storage of credentials and sensitive 
 information
 
-> When data breaches occur on massive companies and passwords are stored in plain text, this will allow any malicious party to do credential stuffing on any other website that the users of the breached company use. Many people don't use different passwords for different websites. This is why companies should encrypt passwords to make it harder for malicious parties to decrypt the passwords of the users. SHA-2 is a common encryption method used for passwords in databases, seen in recent breaches.
+> When data breaches occur on massive companies and passwords are stored in plain text, this will allow any malicious party to do credential stuffing on any other website that the users of the breached company use. Many people don't use different passwords for different websites. This is why companies should encrypt passwords to make it harder for malicious parties to decrypt the passwords of the users. SHA-2 is a common encryption method used for passwords in databases, seen in past breaches.
