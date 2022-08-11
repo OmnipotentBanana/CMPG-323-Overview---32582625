@@ -34,8 +34,9 @@ of a .gitignore file within each project
 - In the ReadME.md, provide a 
 diagram explaining project and 
 repository context and how they are 
-integrate
+integrated
 
+[[Project 1 Diagram.png]]
 
 - In the ReadME.md, explain the 
 storage of credentials and sensitive 
