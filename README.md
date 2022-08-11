@@ -36,7 +36,7 @@ diagram explaining project and
 repository context and how they are 
 integrated
 
-![alttext](https://github.com/OmnipotentBanana/CMPG-323-Overview---32582625/blob/main/Project%201%20Diagram.png)
+![alttext](https://github.com/OmnipotentBanana/CMPG-323-Overview---32582625/blob/main/Project%201%20Diagram.jpg)
 
 - In the ReadME.md, explain the 
 storage of credentials and sensitive 
