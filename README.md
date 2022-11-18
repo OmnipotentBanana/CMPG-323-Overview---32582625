@@ -46,3 +46,21 @@ storage of credentials and sensitive
 information
 
 > When data breaches occur on massive companies and passwords are stored in plain text, this will allow any malicious party to do credential stuffing on any other website that the users of the breached company use. Many people don't use different passwords for different websites. This is why companies should encrypt passwords to make it harder for malicious parties to decrypt the passwords of the users. SHA-2 is a common encryption method used for passwords in databases, seen in past breaches.
+
+
+
+## Project 2:
+
+> This project handled output of IOT devices through a web interface. These devices can then be listed and tracked to see their status and locations. The device specifications are stored in an Azure database in the cloud, allowing for safe storage and accessibility.
+
+## Project 3: 
+
+> This project allows for the insertion, editing and deletion of IOT devices. The UI allows for easy manipulation of the data in the database and makes it easier for the stakeholder to have control of the data.
+
+## Project 4:
+
+> The IOT API has been automated. This allows for testing of data and see if all devices are correctly entered into the database. This removes the need for humans to test any sort of device entry.
+
+## Project 5:
+
+> This project handled the high-level reporting of data regarding the IOT devices. Graphs and charts are used to show stakeholders the most important data regarding the IOT devices and makes it much easier to read the data.
